@@ -11,7 +11,7 @@ const chalk = require('chalk')
 
 //------- [put your credintials below]------//
 
-global.SESSION_ID = process.env.SESSION_ID || "SESSION_ID_HERE" // session id
+global.SESSION_ID = process.env.SESSION_ID || "cVYVWKaS#tY2vh_2-kHxi_rCAVTic9RNFcYHaia2Uj2wpGpbkFlY" // session id
 
 
 global.ownernomer = process.env.OWNER_NUMBER || "255697608274"
